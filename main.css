@@ -69,7 +69,7 @@ aside {
     display:inline-block; 
     vertical-align:top;
     font-family: fantasy;
-
+    margin-right: 20px;
 }
 aside li {
     list-style: none;
